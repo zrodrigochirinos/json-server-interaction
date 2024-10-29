@@ -73,7 +73,6 @@
       "country": "USA"
     }
   ],
-  {
   "reviewsComponent": [
     {
       "id": 1,
@@ -180,5 +179,4 @@
       "component_name": ""
     }
   ]
-}
 }
